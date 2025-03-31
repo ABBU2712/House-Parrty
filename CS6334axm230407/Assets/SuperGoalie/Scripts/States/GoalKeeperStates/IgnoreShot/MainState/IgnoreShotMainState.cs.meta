@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 313799642ab691c468e2cdb5b5cdb0a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Scripts/States/GoalKeeperStates/IgnoreShot/MainState/IgnoreShotMainState.cs
+  uploadId: 332175

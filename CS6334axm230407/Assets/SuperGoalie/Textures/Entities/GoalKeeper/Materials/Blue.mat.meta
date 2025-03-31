@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d804865c131d3ab49b08679014c6451f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Textures/Entities/GoalKeeper/Materials/Blue.mat
+  uploadId: 332175

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b03ce5ae1a7753844b7ebc54c3b066aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Prefabs/Entities/Ball.prefab
+  uploadId: 332175

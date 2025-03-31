@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8aacc8f73a53b624fa5d21cc0cdd6399
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Plugins/SimpleSteering/Movement/Controllers/RPGMovement.cs
+  uploadId: 332175

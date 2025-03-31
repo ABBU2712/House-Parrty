@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 375ad69c370378f42880555444aac33e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Textures/Entities/GoalKeeper/Materials/Socks.mat
+  uploadId: 332175

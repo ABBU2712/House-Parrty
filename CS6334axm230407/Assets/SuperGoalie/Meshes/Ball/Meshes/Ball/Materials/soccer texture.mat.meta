@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5afc1c05f8cbb644bbb465f8c6b09ae9
+timeCreated: 1507105035
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Meshes/Ball/Meshes/Ball/Materials/soccer texture.mat
+  uploadId: 332175

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e335100914eb1846bb499f9cdfb0939
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Scripts/States/GoalKeeperStates/InteractWithBall/SubStates/ClearBall.cs
+  uploadId: 332175

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 961a06c5ac5707a44b35ab051b0fa98d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Meshes/Goal/Mesh/Materials/matGoalSupportRopes.mat
+  uploadId: 332175

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55cb4d0b14ca7b14fb3e23395dd0ebba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Scripts/States/GoalKeeperStates/InteractWithBall/MainState/InteractWithBallMainState.cs
+  uploadId: 332175

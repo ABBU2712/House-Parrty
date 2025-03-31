@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 721877c4db30ef849a4579697be7342f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Plugins/RobustFSM/Base/BHState.cs
+  uploadId: 332175
