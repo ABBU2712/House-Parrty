@@ -11,14 +11,14 @@
       "hash": "3849789abdda4140219eec4d524a02e15e1548fe"
     },
     "com.readyplayerme.core": {
-      "version": "https://github.com/readyplayerme/rpm-unity-sdk-core.git#f6ea3c4b0a8891b7c4c1d7b269cee545185549fb",
+      "version": "https://github.com/readyplayerme/rpm-unity-sdk-core.git#v7.4.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.cloud.gltfast": "6.0.1",
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       },
-      "hash": "f6ea3c4b0a8891b7c4c1d7b269cee545185549fb"
+      "hash": "0f11fca654d1d1ee33ea31e567b4d6e083f7d19c"
     },
     "com.soupday.cc3_unity_tools": {
       "version": "https://github.com/soupday/cc_unity_tools_3D.git",
