@@ -1034,6 +1034,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3644a5b98fb54c346ac28397b5fca2e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  toggleButtonText: {fileID: 1669853499}
 --- !u!82 &777071695
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1598,7 +1599,7 @@ GameObject:
   - component: {fileID: 1064337076}
   - component: {fileID: 1064337075}
   m_Layer: 0
-  m_Name: PlayMusicButton
+  m_Name: ToggleMusicButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1670,7 +1671,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 777071694}
         m_TargetAssemblyTypeName: MusicController, Assembly-CSharp
-        m_MethodName: PlayMusic
+        m_MethodName: ToggleMusic
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2471,7 +2472,7 @@ GameObject:
   - component: {fileID: 1669853500}
   - component: {fileID: 1669853499}
   m_Layer: 0
-  m_Name: Text (TMP)
+  m_Name: ToggleButtonText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
