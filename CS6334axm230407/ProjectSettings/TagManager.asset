@@ -8,6 +8,7 @@ TagManager:
   - GoalNet
   - Floor
   - Interactable
+  - Speaker
   layers:
   - Default
   - TransparentFX
