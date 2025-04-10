@@ -32,7 +32,7 @@ public class CharacterMovement : MonoBehaviour
         // Get horizontal and vertical movements.
         float horComp = Input.GetAxis("Horizontal");
         float vertComp = Input.GetAxis("Vertical");
-
+       
         if (joyStickMode)
         {
             horComp = Input.GetAxis("Vertical");
