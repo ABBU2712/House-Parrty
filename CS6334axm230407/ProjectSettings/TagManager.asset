@@ -8,6 +8,8 @@ TagManager:
   - GoalNet
   - Floor
   - Interactable
+  - SenderTMP
+  - Grabable
   - Speaker
   layers:
   - Default
