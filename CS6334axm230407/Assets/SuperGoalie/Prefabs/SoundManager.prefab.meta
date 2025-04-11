@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efe5955eecf6a614f9d137b3a80dd47a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Prefabs/SoundManager.prefab
+  uploadId: 332175

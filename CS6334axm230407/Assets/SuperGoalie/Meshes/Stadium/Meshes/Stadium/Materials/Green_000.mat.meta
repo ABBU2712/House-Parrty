@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5b5e942eba940f4dbc7fb2075689715
+timeCreated: 1507315632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Meshes/Stadium/Meshes/Stadium/Materials/Green_000.mat
+  uploadId: 332175

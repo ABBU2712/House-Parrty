@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 813f993b8c7b34443bdc36e018091d26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Scripts/FSMs/GoalKeeperFSM.cs
+  uploadId: 332175

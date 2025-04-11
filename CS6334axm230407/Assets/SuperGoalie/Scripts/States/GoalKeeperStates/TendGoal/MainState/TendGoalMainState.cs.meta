@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f229766e0a85dee4cbf5b26249993c87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Scripts/States/GoalKeeperStates/TendGoal/MainState/TendGoalMainState.cs
+  uploadId: 332175

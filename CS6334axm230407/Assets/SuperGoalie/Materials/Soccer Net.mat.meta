@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5983bcd0c2b6154e94cf8f5f794700d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Materials/Soccer Net.mat
+  uploadId: 332175

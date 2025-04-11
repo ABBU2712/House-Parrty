@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3e6c6c62e7a982342b0cd1d7f9ecd78b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Scripts/Entities/GoalKeeper.cs
+  uploadId: 332175

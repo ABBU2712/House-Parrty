@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9d74a2f7dae6e6846945228b02e110da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Plugins/RobustFSM/Base/BFSM.cs
+  uploadId: 332175

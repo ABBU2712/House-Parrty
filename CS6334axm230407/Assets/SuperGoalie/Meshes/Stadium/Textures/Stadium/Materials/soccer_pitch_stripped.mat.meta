@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49be79ec04e623d4f96358bcc7b10c69
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Meshes/Stadium/Textures/Stadium/Materials/soccer_pitch_stripped.mat
+  uploadId: 332175

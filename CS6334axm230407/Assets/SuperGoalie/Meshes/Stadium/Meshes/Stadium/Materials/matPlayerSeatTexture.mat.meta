@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c333aa7120cd96940bbcae7ff086d581
+timeCreated: 1513158127
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144535
+  packageName: Super Goalie Basic
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperGoalie/Meshes/Stadium/Meshes/Stadium/Materials/matPlayerSeatTexture.mat
+  uploadId: 332175
