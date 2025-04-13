@@ -3,7 +3,7 @@
 **Team Name**: Psych creations (Team 05)  
 **Platform**: Google Cardboard / Android Phones   
 **Demo Date**: April 16 
-**GitHub URL**:
+**GitHub URL**: https://github.com/ABBU2712/House-Parrty
 
 ---
 
@@ -33,7 +33,7 @@ The main prototype is located in the Unity scene:
 ### 🧠 Interaction Summary
 - NPC reacts to player key input via raycast-based targeting.
 - NPC responses trigger floating chat bubbles with contextual animations (talk/dance).
-- Interaction menu appears when NPC is idle and player is focused.
+- The interaction menu appears when the NPC is idle and the player is focused.
 
 ---
 
@@ -61,7 +61,7 @@ The main prototype is located in the Unity scene:
 - Dynamic ChatBubble UI with text + background  
 - Emotion-based dialogue categories ("hello", "dance")  
 - NPC remembers player actions (via NPCMemory system)  
-- Dynamic Player Response UI injected into existing menu system  
+- Dynamic Player Response UI injected into the existing menu system  
 
 ---
 
@@ -85,7 +85,6 @@ See [`Source.md`](Source.md) for complete links and licensing info.
 
 ## 👨‍👩‍👧 Team Info
 
-See [`Team.md`](Team.md) for:
 - Member names: Abinash Mishra / Amitesh Singh Bais
 - Assigned roles: Presenter / Presenter
 - Contribution breakdown: Abinash contributed in initial setup followed by designing and devloping NPCs from scratch.
@@ -97,7 +96,7 @@ See [`Team.md`](Team.md) for:
 
 1. Clone the GitHub repository:
     ```bash
-    git clone https://github.com/your-repo-link.git
+    git clone https://github.com/ABBU2712/House-Parrty
     ```
 
 2. Open the project in Unity **2021.x or later**.
