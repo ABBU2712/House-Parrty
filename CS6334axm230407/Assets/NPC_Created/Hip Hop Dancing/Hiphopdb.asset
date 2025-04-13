@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee9e66ff19b68c745bb00f00585a76d3, type: 3}
+  m_Name: Hiphopdb
+  m_EditorClassIdentifier: 
+  allResponses:
+  - keyword: hello
+    responses:
+    - '"Well, well, look who''s finally here."'
+    - '"Took you long enough to say hi."'
+    - '"You are late. I already drank half the party."'
+    - '"Funny how loud music hides the quiet parts of us."'
+    - '"You\u2019re late. I already drank half the party."'
+    mood: cheerful
+    requiredFlag: 
+  - keyword: dance
+    responses:
+    - '"Only if you lead."'
+    - '"Let us make the floor ours."'
+    - '"Careful, I might outshine you.."'
+    mood: cheerful
+    requiredFlag: 
