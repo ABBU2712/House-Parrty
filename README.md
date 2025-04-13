@@ -67,7 +67,6 @@ The main prototype is located in the Unity scene:
 
 ## 📱 Target Device
 
-- Optimized for **Oculus Quest 2**
 - Secondary support for **Android phones** via Cardboard-style input
 
 ---
@@ -87,7 +86,7 @@ See [`Source.md`](Source.md) for complete links and licensing info.
 
 - Member names: Abinash Mishra / Amitesh Singh Bais
 - Assigned roles: Presenter / Presenter
-- Contribution breakdown: Abinash contributed in initial setup followed by designing and devloping NPCs from scratch.
+- Contribution breakdown: Abinash contributed in the initial setup followed by designing and devloping NPCs from scratch.
                           Amitesh designed the complete scene along with making the beer pong game work.
 
 ---
