@@ -1,7 +1,7 @@
 # House Party VR - Preliminary Prototype
 **Course**: CS 6334 Virtual Reality  
 **Team Name**: Psych creations (Team 05)  
-**Platform**: Google Carboard / Android Phones   
+**Platform**: Google Cardboard / Android Phones   
 **Demo Date**: April 16 
 **GitHub URL**:
 
