@@ -134,4 +134,12 @@ public class GrabObject : MonoBehaviour
         lastOutline = null;
     }
 
+    public Vector3 getRayOrigin(){
+        return rayOrigin;
+    }
+
+    public Vector3 getDirection(){
+        return direction;
+    }
+
 }
