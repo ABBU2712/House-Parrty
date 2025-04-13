@@ -76,7 +76,7 @@ public class GrabObject : MonoBehaviour
             DisablePreviousHighlight();
         }
 
-        if(Input.GetKeyDown(KeyCode.B)) {
+        if(Input.GetKeyDown(KeyCode.B) || (Input.GetButton("js5"))) {
 
             if(inHands) {
                 grabbedObject.transform.SetParent(null);
@@ -132,6 +132,10 @@ public class GrabObject : MonoBehaviour
         }
         lastHighlighted = null;
         lastOutline = null;
+    }
+
+    public Ray getRay(){
+        return ray;
     }
 
 }
