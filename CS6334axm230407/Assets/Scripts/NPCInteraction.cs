@@ -6,7 +6,7 @@ public class NPCRayInteraction : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I))
+        if (Input.GetKeyDown(KeyCode.I) || (Input.GetButton("js10")))
         {
             Ray ray = raycastSource.ray;
             RaycastHit hit;
@@ -29,7 +29,7 @@ public class NPCRayInteraction : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.X) || (Input.GetButton("js2")))
         {
             Ray ray = raycastSource.ray;
             RaycastHit hit;
@@ -51,7 +51,7 @@ public class NPCRayInteraction : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.Y))
+        if (Input.GetKeyDown(KeyCode.Y) || (Input.GetButton("js3")))
         {
             Ray ray = raycastSource.ray;
             RaycastHit hit;
