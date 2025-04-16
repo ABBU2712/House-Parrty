@@ -11,6 +11,11 @@ TagManager:
   - SenderTMP
   - Grabable
   - Speaker
+  - Character
+  - Store
+  - Grab
+  - NPC
+  - DJbox
   layers:
   - Default
   - TransparentFX
