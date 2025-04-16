@@ -41,7 +41,7 @@ public class GrabObject : MonoBehaviour
     void Update()
     {
         //Ray ray = new Ray(controllerTransform.position, controllerTransform.forward);
-        offset = transform.forward * 0.1f + transform.right * -0.1f + transform.up * -0.3f; // forward and slightly left
+        offset = transform.forward * 1f + transform.right * -0.3f + transform.up * -0.3f; // forward and slightly left
         rayOrigin = transform.position + offset;
         direction = (transform.forward + transform.up * 0.3f).normalized;
         ray = new Ray(rayOrigin, direction);
@@ -56,7 +56,6 @@ public class GrabObject : MonoBehaviour
 
             if (highlightedObject != lastHighlighted)
             {
-                Debug.Log("Tello ");
                 DisablePreviousHighlight();
 
                 if (outline != null)
