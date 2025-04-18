@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e9be0d45c7afa7e4c94e75fef8c3dfa4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195422
+  packageName: Pixel Kit - Car Free
+  packageVersion: 1.0
+  assetPath: Assets/Clirgo/Pixel Kit - Car Free/Demo/Scripts/ObjectSpawner.cs
+  uploadId: 453167

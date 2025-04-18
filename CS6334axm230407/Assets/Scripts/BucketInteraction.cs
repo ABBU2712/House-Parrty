@@ -14,12 +14,12 @@ public class BucketInteraction : MonoBehaviour
         canvas.SetActive(false);
     }
 
-    private void Update() 
-    {
-        if(Input.GetKeyDown(KeyCode.B)) {
-            //StartCoroutine(ShowMessage());
-        }
-    }
+    //private void Update() 
+    //{
+    //    if(Input.GetKeyDown(KeyCode.B)) {
+    //        //StartCoroutine(ShowMessage());
+    //    }
+    //}
     private void OnTriggerEnter(Collider other)
     {
         StartCoroutine(ShowMessage());

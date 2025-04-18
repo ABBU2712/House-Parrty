@@ -75,7 +75,7 @@ public class GrabObject : MonoBehaviour
             DisablePreviousHighlight();
         }
 
-        if(Input.GetKeyDown(KeyCode.B) || (Input.GetButton("js5"))) {
+        if(Input.GetKeyDown(KeyCode.B) || (Input.GetButtonDown("js2"))) {
 
             if(inHands) {
                 grabbedObject.transform.SetParent(null);

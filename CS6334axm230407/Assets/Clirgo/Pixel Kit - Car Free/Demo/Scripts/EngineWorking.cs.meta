@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0b0b1a32117a5d949a6ecf47b3643128
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195422
+  packageName: Pixel Kit - Car Free
+  packageVersion: 1.0
+  assetPath: Assets/Clirgo/Pixel Kit - Car Free/Demo/Scripts/EngineWorking.cs
+  uploadId: 453167
