@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61ecf3255f87bb640a1c5d921fff9f82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195422
+  packageName: Pixel Kit - Car Free
+  packageVersion: 1.0
+  assetPath: Assets/Clirgo/Pixel Kit - Car Free/Demo/Scripts/WheelRotate.cs
+  uploadId: 453167
