@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class NPCRayInteraction : MonoBehaviour
 {
@@ -90,7 +91,7 @@ public class NPCRayInteraction : MonoBehaviour
 
             var menuScript = menu.GetComponent<NPCActionMenu>();
             if (menuScript != null)
-                menuScript.Setup(npc);
+                menuScript.ShowPlayerResponses("hello");
         }
         void HideMenu(SimpleNPC npc)
         {

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92d73640c0efd414285234a3034d8650, type: 3}
+  m_Name: PlayerDialogueDB
+  m_EditorClassIdentifier: 
+  entries:
+  - category: hello
+    mood: cheerful
+    responses:
+    - Haha, thanks for inviting me!
+    - Great party vibe already!
+    - Wasn't expecting to see you here.
+    - What's the occasion?
+  - category: dance
+    mood: cheerful
+    responses:
+    - "Let\u2019s groove together!"
+    - "These moves? I\u2019ve been practicing."
+    - Teach me that step again!
+    - Time for a dance battle?
+  - category: flirt
+    mood: sassy
+    responses:
+    - Smooth move, party host.
+    - "Don\u2019t get distracted now \U0001F609"
+    - You're cute when you dance.
+    - "Careful \u2014 I might flirt back."
+  - category: bye
+    mood: neutral
+    responses:
+    - Leaving already?
+    - Catch you later!
+    - "Don\u2019t forget to grab cake on your way out."
+    - Come back if the night gets boring.

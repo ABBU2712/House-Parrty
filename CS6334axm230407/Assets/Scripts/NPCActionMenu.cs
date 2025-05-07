@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using System.Collections.Generic;
 
 public class NPCActionMenu : MonoBehaviour
 {
@@ -8,41 +9,44 @@ public class NPCActionMenu : MonoBehaviour
     public Button yButton;
     public PlayerDialogueDatabase playerDB;
 
-    private SimpleNPC npc;
-
-    public void Setup(SimpleNPC npcScript)
-    {
-        npc = npcScript;
-    }
-
     public void ShowPlayerResponses(string category)
     {
-        var entry = playerDB.entries.Find(e => e.category == category);
-        if (entry == null) return;
+        PlayerDialogueEntry entry = playerDB.entries.Find(e => e.category.ToLower() == category.ToLower());
 
-        if (entry.responses.Length > 0)
+        if (entry == null || entry.responses.Length == 0)
         {
-            string responseX = entry.responses[Random.Range(0, entry.responses.Length)];
-            xButton.GetComponentInChildren<TMP_Text>().text = responseX + " (X)";
-            xButton.onClick.RemoveAllListeners();
-            xButton.onClick.AddListener(() => {
-                Debug.Log("Player responded: " + responseX);
-                gameObject.SetActive(false);
-            });
+            Debug.LogWarning("No player responses found for category: " + category);
+            return;
         }
 
-        if (entry.responses.Length > 1)
-        {
-            string responseY = entry.responses[Random.Range(0, entry.responses.Length)];
-            yButton.GetComponentInChildren<TMP_Text>().text = responseY + " (Y)";
-            yButton.onClick.RemoveAllListeners();
-            yButton.onClick.AddListener(() => {
-                Debug.Log("Player responded: " + responseY);
-                gameObject.SetActive(false);
-            });
-        }
+        List<string> pool = new List<string>(entry.responses);
+        Shuffle(pool);
+
+        xButton.GetComponentInChildren<TMP_Text>().text = pool.Count > 0 ? pool[0] + " (X)" : "N/A";
+        xButton.onClick.RemoveAllListeners();
+        xButton.onClick.AddListener(() => {
+            Debug.Log("Player responded (X): " + pool[0]);
+            gameObject.SetActive(false);
+        });
+
+        yButton.GetComponentInChildren<TMP_Text>().text = pool.Count > 1 ? pool[1] + " (Y)" : "N/A";
+        yButton.onClick.RemoveAllListeners();
+        yButton.onClick.AddListener(() => {
+            Debug.Log("Player responded (Y): " + pool[1]);
+            gameObject.SetActive(false);
+        });
 
         gameObject.SetActive(true);
     }
 
+    void Shuffle(List<string> list)
+    {
+        for (int i = 0; i < list.Count; i++)
+        {
+            string temp = list[i];
+            int rand = Random.Range(i, list.Count);
+            list[i] = list[rand];
+            list[rand] = temp;
+        }
+    }
 }

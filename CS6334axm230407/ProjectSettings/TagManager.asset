@@ -16,6 +16,7 @@ TagManager:
   - Grab
   - NPC
   - DJbox
+  - TV
   layers:
   - Default
   - TransparentFX
