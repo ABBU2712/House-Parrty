@@ -7,7 +7,7 @@ public class SphereShoot : MonoBehaviour
 {
     public Camera cam;
     private LineRenderer lineRenderer;
-    //public Image powerBar; // UI fill image
+    public Image powerBar; // UI fill image
     public float maxPower = 500f;
     public float fillSpeed = 0.5f;
 
@@ -31,7 +31,7 @@ public class SphereShoot : MonoBehaviour
         lineRenderer = GetComponent<LineRenderer>();
         rb = GetComponent<Rigidbody>();
         lineRenderer.enabled = false;
-        //powerBar.fillAmount = 0f;
+        powerBar.fillAmount = 0f;
         scoreText.text = "Points: 0";
         gameOn = false;
     }
@@ -55,7 +55,7 @@ public class SphereShoot : MonoBehaviour
 
             currentPower += fillSpeed * Time.deltaTime;
             currentPower = Mathf.Clamp01(currentPower);
-            //powerBar.fillAmount = currentPower;
+            powerBar.fillAmount = currentPower;
         }
 
         if ((Input.GetKeyUp(KeyCode.P) || Input.GetButtonUp("js3")) && gameOn)
@@ -63,7 +63,7 @@ public class SphereShoot : MonoBehaviour
             Vector3 forceDir = (endPos - startPos).normalized;
             rb.AddForce(forceDir * (currentPower * maxPower));
             currentPower = 0f;
-            //powerBar.fillAmount = 0f;
+            powerBar.fillAmount = 0f;
             isCharging = false;
             gameOn = false;
             lineRenderer.enabled = false;
@@ -122,22 +122,22 @@ public class SphereShoot : MonoBehaviour
         Vector3[] positions = new Vector3[]
         {
             // Row 1 (4 pins)
-            new Vector3(-1.5f, 0.5f, 4.5f),
+            new Vector3(-1.0f, 0.5f, 4.5f),
             new Vector3(-0.5f, 0.5f, 4.5f),
+            new Vector3(0f, 0.5f, 4.5f),
             new Vector3(0.5f, 0.5f, 4.5f),
-            new Vector3(1.5f, 0.5f, 4.5f),
 
             // Row 2 (3 pins)
-            new Vector3(-1f, 0.5f, 4f),
-            new Vector3(0f, 0.5f, 4f),
-            new Vector3(1f, 0.5f, 4f),
+            new Vector3(-0.75f, 0.5f, 4f),
+            new Vector3(-0.25f, 0.5f, 4f),
+            new Vector3(0.25f, 0.5f, 4f),
 
             // Row 3 (2 pins)
             new Vector3(-0.5f, 0.5f, 3.5f),
-            new Vector3(0.5f, 0.5f, 3.5f),
+            new Vector3(0f, 0.5f, 3.5f),
 
             // Row 4 (1 pin)
-            new Vector3(0f, 0.5f, 3f),
+            new Vector3(-0.25f, 0.5f, 3f),
         };
 
         for (int i = 0; i < pinParent.transform.childCount && i < positions.Length; i++)
@@ -148,7 +148,7 @@ public class SphereShoot : MonoBehaviour
         }
 
         transform.localRotation = Quaternion.identity;
-        transform.localPosition = new Vector3(0, 1, 0);
+        transform.localPosition = new Vector3(-0.18f, 1f, 0f);
         rb.linearVelocity = Vector3.zero;
         rb.angularVelocity = Vector3.zero;
         gameOn = true;

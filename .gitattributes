@@ -111,3 +111,4 @@ CS6334axm230407/*.xcworkspacedata filter=lfs diff=lfs merge=lfs -text
 CS6334axm230407/*.xml filter=lfs diff=lfs merge=lfs -text
 CS6334axm230407/*.yaml filter=lfs diff=lfs merge=lfs -text
 CS6334axm230407/*.yml filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
