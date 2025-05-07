@@ -55,6 +55,13 @@ public class SimpleNPC : MonoBehaviour
                 Debug.Log("Menu not shown shown");
             }
 
+            //NPCActionMenu menu = GetComponentInChildren<NPCActionMenu>();
+            //if (menu != null)
+            //{
+            //    menu.ShowPlayerResponses(playerInput); // 'hello', 'dance', etc.
+            //}
+
+
             return;
         }
 
