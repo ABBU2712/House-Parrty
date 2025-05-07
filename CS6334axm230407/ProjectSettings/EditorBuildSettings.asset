@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HouseTest.unity
     guid: a6939063019da480991431a8b52e7ee5
+  - enabled: 1
+    path: Assets/Scenes/Racinggame.unity
+    guid: 18d3f8cc1fbf5e0498e24ef25f50f4db
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

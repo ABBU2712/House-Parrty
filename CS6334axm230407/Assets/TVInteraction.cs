@@ -1,13 +1,26 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TVInteraction : MonoBehaviour
 {
-    public GameObject gameStartUI;
+    public float rayDistance = 10f;
+    public KeyCode interactionKey = KeyCode.E ; // Or use controller button
 
-    public void ShowGameMenu()
+    void Update()
     {
-        gameStartUI.SetActive(true);
-        gameStartUI.transform.LookAt(Camera.main.transform);
-        gameStartUI.transform.Rotate(0, 180f, 0);
+        if (Input.GetKeyDown(interactionKey) || Input.GetButton("js2"))
+        {
+            Ray ray = new Ray(transform.position, transform.forward);
+            RaycastHit hit;
+
+            if (Physics.Raycast(ray, out hit, rayDistance))
+            {
+                if (hit.collider.CompareTag("TV"))
+                {
+                    Debug.Log("TV Hit! Loading racing scene...");
+                    SceneManager.LoadScene("Racinggame"); // change name if needed
+                }
+            }
+        }
     }
 }
