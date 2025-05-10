@@ -2,7 +2,10 @@ using UnityEngine;
 
 public class DJRayInteraction : MonoBehaviour
 {
-    public GrabObject raycastSource;
+    public Transform reticlePointer;
+    public float rayDistance = 100f;
+
+    //public GrabObject raycastSource;
 
     private DJMenuControllerFixed currentDJMenu;
     private GameObject currentMenuObject;
@@ -10,7 +13,9 @@ public class DJRayInteraction : MonoBehaviour
 
     private void Update()
     {
-        Ray ray = raycastSource.ray;
+        //Ray ray = raycastSource.ray;
+        //RaycastHit hit;
+        Ray ray = new Ray(reticlePointer.position, reticlePointer.forward);
         RaycastHit hit;
 
         bool hitDJBox = false;

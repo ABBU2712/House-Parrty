@@ -1,109 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\",
+  "WorkspaceRootPath": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|e:\\vrnewchanges\\house-parrty\\cs6334axm230407\\assets\\racecountdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\racecountdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|e:\\vr_imp\\house-parrty\\cs6334axm230407\\assets\\arrowspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\arrowspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|e:\\vrnewchanges\\house-parrty\\cs6334axm230407\\assets\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|e:\\vr_imp\\house-parrty\\cs6334axm230407\\assets\\bullespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\bullespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\lapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\lapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\car2dcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\car2dcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\camerafollow2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\playerdialogueentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdialogueentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\playerdialoguedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdialoguedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\circularpathmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\circularpathmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\npcactionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcactionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{892A0793-85F8-E2AB-F906-0865158B501B}|Assembly-CSharp-Editor.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\editor\\dialoguedatabasefiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{892A0793-85F8-E2AB-F906-0865158B501B}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\dialoguedatabasefiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\simplenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\settingsmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\settingsmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\clirgo\\pixel kit - car free\\demo\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\clirgo\\pixel kit - car free\\demo\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\tvinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\assets\\tvinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\tvinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\assets\\limitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\limitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\scripts\\bucketinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bucketinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\assets\\circularpathmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\circularpathmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abina\\Downloads\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\djrayinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\djrayinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\djmenucontrollerfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\djmenucontrollerfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\djmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\djmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\djboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\djboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\djboxuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\djboxuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\raycastreticlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\raycastreticlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\assets\\iraycastinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\iraycastinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\assets\\milabcardboardextension\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C7BE-FB47-FE24-D3C6-7A2539EA1F89}|Assembly-CSharp.csproj|solutionrelative:assets\\milabcardboardextension\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,315 +43,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RaceCountdown.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\RaceCountdown.cs",
-              "RelativeDocumentMoniker": "Assets\\RaceCountdown.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\RaceCountdown.cs",
-              "RelativeToolTip": "Assets\\RaceCountdown.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAcAAAAAAAAAA==",
+              "Title": "ArrowSpawner.cs",
+              "DocumentMoniker": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\ArrowSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ArrowSpawner.cs",
+              "ToolTip": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\ArrowSpawner.cs",
+              "RelativeToolTip": "Assets\\ArrowSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:38:16.043Z",
+              "WhenOpened": "2025-05-10T03:43:54.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SceneManager.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\SceneManager.cs",
-              "RelativeDocumentMoniker": "Assets\\SceneManager.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\SceneManager.cs",
-              "RelativeToolTip": "Assets\\SceneManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Title": "BulleSpawner.cs",
+              "DocumentMoniker": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\BulleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\BulleSpawner.cs",
+              "ToolTip": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\BulleSpawner.cs",
+              "RelativeToolTip": "Assets\\BulleSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T08:16:52.139Z",
+              "WhenOpened": "2025-05-10T01:39:36.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LapManager.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\LapManager.cs",
-              "RelativeDocumentMoniker": "Assets\\LapManager.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\LapManager.cs",
-              "RelativeToolTip": "Assets\\LapManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCkAAAAfAAAAAAAAAA==",
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T06:26:30.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerDialogueDatabase.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\PlayerDialogueDatabase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDialogueDatabase.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\PlayerDialogueDatabase.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerDialogueDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:24:03.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerDialogueEntry.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\PlayerDialogueEntry.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDialogueEntry.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\PlayerDialogueEntry.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerDialogueEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T02:33:01.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DialogueDatabaseFiller.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\Editor\\DialogueDatabaseFiller.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\DialogueDatabaseFiller.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\Editor\\DialogueDatabaseFiller.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Editor\\DialogueDatabaseFiller.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T02:24:35.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CameraMovement.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Clirgo\\Pixel Kit - Car Free\\Demo\\Scripts\\CameraMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Clirgo\\Pixel Kit - Car Free\\Demo\\Scripts\\CameraMovement.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Clirgo\\Pixel Kit - Car Free\\Demo\\Scripts\\CameraMovement.cs",
-              "RelativeToolTip": "Assets\\Clirgo\\Pixel Kit - Car Free\\Demo\\Scripts\\CameraMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T21:34:11.394Z"
+              "WhenOpened": "2025-05-10T01:37:49.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CameraFollow2D.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\CameraFollow2D.cs",
-              "RelativeDocumentMoniker": "Assets\\CameraFollow2D.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\CameraFollow2D.cs",
-              "RelativeToolTip": "Assets\\CameraFollow2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "LimitMovement.cs",
+              "DocumentMoniker": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\LimitMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\LimitMovement.cs",
+              "ToolTip": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\LimitMovement.cs",
+              "RelativeToolTip": "Assets\\LimitMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:17:44.798Z"
+              "WhenOpened": "2025-05-10T01:18:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\MiLabCardboardExtension\\Scripts\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\MiLabCardboardExtension\\Scripts\\CharacterMovement.cs",
+              "ToolTip": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\MiLabCardboardExtension\\Scripts\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\MiLabCardboardExtension\\Scripts\\CharacterMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T00:07:26.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CircularPathMover.cs",
+              "DocumentMoniker": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\CircularPathMover.cs",
+              "RelativeDocumentMoniker": "Assets\\CircularPathMover.cs",
+              "ToolTip": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\CircularPathMover.cs",
+              "RelativeToolTip": "Assets\\CircularPathMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T23:03:15.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Car2DController.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Car2DController.cs",
-              "RelativeDocumentMoniker": "Assets\\Car2DController.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Car2DController.cs",
-              "RelativeToolTip": "Assets\\Car2DController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T21:59:50.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NPCActionMenu.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\NPCActionMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCActionMenu.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\NPCActionMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NPCActionMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:45:14.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SimpleNPC.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\SimpleNPC.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleNPC.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\SimpleNPC.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SimpleNPC.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwD0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:45:41.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CircularPathMover.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\CircularPathMover.cs",
-              "RelativeDocumentMoniker": "Assets\\CircularPathMover.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\CircularPathMover.cs",
-              "RelativeToolTip": "Assets\\CircularPathMover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:07:48.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NPCInteraction.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\NPCInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCInteraction.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\NPCInteraction.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NPCInteraction.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAQwF0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:17:11.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "TVInteraction.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\TVInteraction.cs",
+              "DocumentMoniker": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\TVInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\TVInteraction.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\TVInteraction.cs",
+              "ToolTip": "E:\\VR_IMP\\House-Parrty\\CS6334axm230407\\Assets\\TVInteraction.cs",
               "RelativeToolTip": "Assets\\TVInteraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T02:17:09.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BucketInteraction.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\BucketInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BucketInteraction.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\BucketInteraction.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BucketInteraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T13:55:57.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SettingsMenuController.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\SettingsMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\SettingsMenuController.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\SettingsMenuController.cs",
-              "RelativeToolTip": "Assets\\SettingsMenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:24:56.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainMenuController.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\MainMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\MainMenuController.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\MainMenuController.cs",
-              "RelativeToolTip": "Assets\\MainMenuController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwE4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T05:50:27.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GrabObject.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\GrabObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GrabObject.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\Scripts\\GrabObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GrabObject.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T03:27:27.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DJMenuControllerFixed.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJMenuControllerFixed.cs",
-              "RelativeDocumentMoniker": "Assets\\DJMenuControllerFixed.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJMenuControllerFixed.cs",
-              "RelativeToolTip": "Assets\\DJMenuControllerFixed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T21:51:00.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DJMenuController.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\DJMenuController.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJMenuController.cs",
-              "RelativeToolTip": "Assets\\DJMenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:32:35.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DJBoxController.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJBoxController.cs",
-              "RelativeDocumentMoniker": "Assets\\DJBoxController.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJBoxController.cs",
-              "RelativeToolTip": "Assets\\DJBoxController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:22:59.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SettingsMenu.cs",
-              "DocumentMoniker": "C:\\Users\\abina\\Downloads\\SettingsMenu.cs",
-              "ToolTip": "C:\\Users\\abina\\Downloads\\SettingsMenu.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAH8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T02:43:41.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DJRayInteraction.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJRayInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\DJRayInteraction.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJRayInteraction.cs",
-              "RelativeToolTip": "Assets\\DJRayInteraction.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwEEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:19:22.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RaycastReticleManager.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\RaycastReticleManager.cs",
-              "RelativeDocumentMoniker": "Assets\\RaycastReticleManager.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\RaycastReticleManager.cs",
-              "RelativeToolTip": "Assets\\RaycastReticleManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:16:04.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IRaycastInteractable.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\IRaycastInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\IRaycastInteractable.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\IRaycastInteractable.cs",
-              "RelativeToolTip": "Assets\\IRaycastInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:15:59.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DJBoxUIManager.cs",
-              "DocumentMoniker": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJBoxUIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\DJBoxUIManager.cs",
-              "ToolTip": "E:\\VRnewchanges\\House-Parrty\\CS6334axm230407\\Assets\\DJBoxUIManager.cs",
-              "RelativeToolTip": "Assets\\DJBoxUIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:14:21.478Z"
+              "WhenOpened": "2025-05-07T15:30:22.328Z"
             }
           ]
         }
