@@ -88,8 +88,10 @@ See [`Source.md`](Source.md) for complete links and licensing info.
 ---
 
 ## 📽️ Demo Video
-
+Preliminary protoype
 🎬 YouTube Link: 
+
+Final Prototype Youtube Link: https://youtu.be/EOPxpAMV_fE
 ---
 
 ## 👨‍👩‍👧 Team Info
