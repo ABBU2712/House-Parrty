@@ -26,9 +26,14 @@ The main prototype is located in the Unity scene:
 | Input | Action |
 |-------|--------|
 | `X` (keyboard or controller) | Initiates conversation with NPC |
+| `A` (keyboard or controller) | Settings Menu pop up|
+| `X` (keyboard or controller) | Select an option in settings menu once it has popped up |
 | `Y` (keyboard or controller) | Triggers NPC dance and party-related response |
 | Gaze/Pointer | Aims at NPC to enable contextual options |
-| `I` | Shows interaction menu |
+| `A` | Shows interaction menu |
+| Bowling game |
+| `Y` | Hold this to generate power for ball/ release to shoot |
+| Use headset direction to control direction of raycast coming out of ball | Ball shoots in direction pointed while releasing Y
 
 ### 🧠 Interaction Summary
 - NPC reacts to player key input via raycast-based targeting.
@@ -40,9 +45,6 @@ The main prototype is located in the Unity scene:
 ## 🎛️ Controller Support
 
 - Supports **Fortune Wireless Controller**
-- Controller mappings are based on Unity’s legacy input system:
-  - `X` → JoystickButton0
-  - `Y` → JoystickButton3
 - Menu options dynamically display assigned keys:  
   Example: `"Talk (X)"`, `"Dance (Y)"`
 
@@ -52,10 +54,14 @@ The main prototype is located in the Unity scene:
 
 ✅ Basic Requirements:
 - VR scene with environment and interactive NPC  
-- Raycast interaction system  
+- Reticle pointer interaction system  
 - UI menu with button responses  
 - Basic character animation: talking & dancing  
 - Dialogue system with mood, memory, and response management
+- Settings menu with cool feature including change lights and sound of your choice
+- An immersive bowling game with a score board and power bar display
+- "Reflex rush": press up/down direction
+- Very cool party like environment with static object including games, pizza, wine, TV, banners, sound and music
 
 ✅ Advanced Features:
 - Dynamic ChatBubble UI with text + background  
