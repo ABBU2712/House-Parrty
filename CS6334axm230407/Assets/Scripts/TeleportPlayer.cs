@@ -7,12 +7,13 @@ public class TeleportPlayer : MonoBehaviour
     private Ray ray;
     public GameObject cam;
     private CharacterController controller;
-    public GameObject character;
-    private GrabObject grabObject;
-    
+    public Transform reticlePointer;
+    public float rayDistance = 100f;
+    //public GameObject character;
+
     void Start() {
         controller = GetComponent<CharacterController>();
-        grabObject = cam.GetComponent<GrabObject>();
+        //grabObject = cam.GetComponent<GrabObject>();
     }
     void Update()
     {
@@ -25,15 +26,18 @@ public class TeleportPlayer : MonoBehaviour
 
     void TryTeleport()
     {
-        ray = grabObject.getRay();
+        //ray = grabObject.getRay();
+        //RaycastHit hit;
+
+        Ray ray = new Ray(reticlePointer.position, reticlePointer.forward);
         RaycastHit hit;
 
         if (Physics.Raycast(ray, out hit, Mathf.Infinity))
         {
-            if (hit.collider.CompareTag("Floor")) // ✅ Check if hit object has "Floor" tag
+            if (hit.collider.CompareTag("Floor"))
             {
                 controller.enabled = false;
-                character.transform.position = new Vector3(hit.point.x, hit.point.y + 1.5f, hit.point.z); // ✅ Teleport to the hit location
+                transform.position = new Vector3(hit.point.x, hit.point.y + 1.5f, hit.point.z); // ✅ Teleport to the hit location
                 Debug.Log("Teleported to: " + hit.point);
                 controller.enabled = true;
             }

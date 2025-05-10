@@ -152,6 +152,7 @@ public class SphereShoot : MonoBehaviour
         rb.linearVelocity = Vector3.zero;
         rb.angularVelocity = Vector3.zero;
         gameOn = true;
+        lineRenderer.enabled = true;
         
     }
 

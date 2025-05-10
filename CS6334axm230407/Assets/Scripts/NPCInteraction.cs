@@ -3,14 +3,21 @@ using UnityEngine.InputSystem;
 
 public class NPCRayInteraction : MonoBehaviour
 {
-    public GrabObject raycastSource;
+    //public GrabObject raycastSource;
+    public Transform reticlePointer;
+    public float rayDistance = 100f;
 
     private void Update()
     {
+        Ray ray = new Ray(reticlePointer.position, reticlePointer.forward);
+        RaycastHit hit;
         if (Input.GetKeyDown(KeyCode.I) || (Input.GetButton("js10")))
         {
-            Ray ray = raycastSource.ray;
-            RaycastHit hit;
+
+            // Visualize ray in the editor
+            Debug.DrawRay(ray.origin, ray.direction * rayDistance, Color.green);
+            //Ray ray = raycastSource.ray;
+            //RaycastHit hit;
 
             if (Physics.Raycast(ray, out hit, 10f))
             {
@@ -32,8 +39,8 @@ public class NPCRayInteraction : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.X) || (Input.GetButton("js2")))
         {
-            Ray ray = raycastSource.ray;
-            RaycastHit hit;
+            //Ray ray = raycastSource.ray;
+            //RaycastHit hit;
             Debug.Log("X is hit");
 
             if (Physics.Raycast(ray, out hit, 10f))
@@ -53,9 +60,9 @@ public class NPCRayInteraction : MonoBehaviour
         }
 
         if (Input.GetKeyDown(KeyCode.Y) || (Input.GetButton("js3")))
-        {
-            Ray ray = raycastSource.ray;
-            RaycastHit hit;
+        //{
+        //    Ray ray = raycastSource.ray;
+        //    RaycastHit hit;
 
             if (Physics.Raycast(ray, out hit, 10f))
             {
@@ -104,4 +111,3 @@ public class NPCRayInteraction : MonoBehaviour
             menu.SetActive(false);
         }
     }
-}
