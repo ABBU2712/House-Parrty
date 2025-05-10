@@ -4,6 +4,7 @@
 **Platform**: Google Cardboard / Android Phones   
 **Demo Date**: April 16 
 **GitHub URL**: https://github.com/ABBU2712/House-Parrty
+**Scene containing final prototype**: House
 
 ---
 
@@ -67,7 +68,10 @@ The main prototype is located in the Unity scene:
 - Dynamic ChatBubble UI with text + background  
 - Emotion-based dialogue categories ("hello", "dance")  
 - NPC remembers player actions (via NPCMemory system)  
-- Dynamic Player Response UI injected into the existing menu system  
+- Dynamic Player Response UI injected into the existing menu system
+
+ 💻 Why we chose NPC AI:
+We selected these requirements to ensure our NPC AI can engage in natural, context-aware conversations that adapt to player interactions.       This enhances immersion by making characters feel responsive, dynamic, and emotionally consistent.
 
 ---
 
